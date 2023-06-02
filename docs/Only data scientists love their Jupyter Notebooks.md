@@ -26,17 +26,22 @@ Why don't we just use code?
 - Sharing is hard
 - Reading is usually not top-down
 
-## Conclusion
+## A Hot Mess It Is
 Set aside the lack of features like autocomplete, the fundamental problem is using the same tools for multiple (inseparable) tasks
 
 - For education (researching papers, books, etc)
 - For exploring datasets and ideas
 - For software development: [Netflix replaces bash script with notebooks](https://www.linkedin.com/pulse/inside-netflixs-notebook-driven-architecture-jesus-rodriguez/)
 
-These tasks always start the same with writing some code. Yet eventually, these code serves different purpose:
+These tasks deceptively start the same: with writing some code. Yet, the code subtly serve different purposes.
 
-- Educational code evolves to pseudo code and highlights (code that are taken out of context)
-- Exploratory code is used only once, hence begin ran out-of-order and irreproducible, and contain hacks that are both personal and systematic (sharing kernels)
-- SE code is modularized (into `load_data.py, model.py, requirements.txt, main.py`) to be testable (given when you have new interns coming in)
+- Educational code are pseudo code and highlights (code taken out of context). They are not meant to be run.
+  
+- Exploratory code contain hacks because they care not about reproducibility. Hacks that are both personal and systematic (sharing kernels). I would also consider executing code out-of-order a hack.
+  
+- SE code have to be modularized (into `load_data.py, model.py, requirements.txt, main.py`) to be testable (a must when you have new interns coming in)
 
-All of these different types of code cramped into a same text-code-plot format makes it so confusing.
+Code from one task takes a lot of time (something impossible) to transfer to another. All of these different types of code cramped into a same text-code-plot format makes it so damn confusing.
+
+## What now?
+TODO
