@@ -4,14 +4,14 @@ Bar of entry for notebooks is low because it looks like a research paper.
 - Plot
 
 Other mediums vowed to replace it, but would have a hard time explaining what they are:
-https://blog.postman.com/postman-flows-the-next-generation-of-software-development/
-https://vizierdb.info/#features
+[One](https://blog.postman.com/postman-flows-the-next-generation-of-software-development/)
+[Two](https://vizierdb.info)
 
 **Praise**
 Make code more tangible (output is directly under)
 
 **Criticism**
-https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/edit#slide=id.g37ce315c78_0_44
+Check [I Don't Like Notebooks](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI).
 - Hidden state
 - Requirement management is bad
 - Hard-coded path & constants everywhere
