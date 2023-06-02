@@ -1,11 +1,6 @@
-# Obsidian Notes
+# Home
+Welcome to Nguyen Van Tri's Website. You might find some learning notes over here, devlogs over there. This is basically my Obsidian dump.
 
-Publish your public notes with MkDocs
+If you need to contact my professionaly, here is my LinkedIn
+[linkedin.com/in/tri2820](https://www.linkedin.com/in/tri2820/)
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`

@@ -1,7 +1,29 @@
-site_name: Tri's notes
+site_name: Tri's Website
 
 theme:
-  name: "terminal"
+  icon:
+    logo: material/pencil
+  name: "material"
+  font:
+    text: Libre Baskerville
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
 
 # Extensions
 markdown_extensions:
@@ -14,7 +36,7 @@ markdown_extensions:
   # - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
-  - def_list
+  # - def_list
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
@@ -32,10 +54,11 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
-  - mermaid2
+  - mermaid2:
+      version: 9.3.0
 
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/mermaid/dist/mermaid.min.js
+  - https://unpkg.com/mermaid@9.3.0/dist/mermaid.min.js
