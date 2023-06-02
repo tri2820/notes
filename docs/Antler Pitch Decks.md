@@ -12,6 +12,8 @@ I received no feedback on the slides, or rather I did not ask my coach for it, b
 
 After failing the Pre-IC, I got a message inviting me to join another team as CTO. We (new team) pivoted a lot, technically. We asked if it would be wise to perform an actual demo or to include a demo video and people said no. Figured.
 
+This one passed IC:
+
 [[Antler VN 3 - Rayo - IC pitch deck.pdf]]
 
 We over-prepared this one, as it should be. We did not go into the appendix but just leave it there in case the committees ask any question. 
