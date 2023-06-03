@@ -2,7 +2,7 @@ A pitch deck contributes somewhere around 10% to whether you are invested or not
 
 3 months into [Antler Founder program](https://www.antler.co/location/vietnam) and you would have an event called IC, where you would meet the Investment Committees (around 6 people) to raise your very first pre-seed funding ($110K for 12%).
 
-2 weeks before IC you would have the pre-IC event, where you would do a mock presentation and receive feedback from your coaches.
+2 weeks before IC you would have the pre-IC event, where you do a mock presentation and receive feedback from your coaches.
 
 This one did *not* pass Pre-IC:
 
@@ -21,7 +21,3 @@ We over-prepared this one, as it should be. We did not go into the appendix but 
 I presented the first half. Watched some Youtube video about story-telling tricks and I can say it improved the flow of the presentation a lot. Unfortunately they are all verbal so you cannot see from the PDF files. I remembered hinting "Blind users spent XX minutes to learn how to use a new website" at slide 2 and 10 slides later "Now with this they only need a few second". BAM. Value propositions for you.
 
 So there you go. I probably will not advertise this blog anywhere, so if you somehow stumble upon this because you searched for it, good luck with your fund raise!
-
-****
-
-Anyway after my part ended, one of the IC members stared at me for 2 minutes non-stop. For some reason I tried not to break eye-contact but eventually did in the end. Fun but scary memory though. Think I got judged.

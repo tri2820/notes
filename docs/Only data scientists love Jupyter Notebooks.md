@@ -1,4 +1,4 @@
-# Only data scientists love their Jupyter Notebooks
+# Only data scientists love Jupyter Notebooks
 Bar of entry for notebooks is low because it looks like a research paper.
 
 - Markdown comment
